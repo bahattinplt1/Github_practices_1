@@ -16,8 +16,13 @@
  <img width="960" alt="collaborators_2" src="https://github.com/user-attachments/assets/d10fb0ae-14bd-4919-9eaf-d01222baae5c">
 
 
-4.	Takım üyeleri maillerine gelen davete tıkladıklarında Takım liderlerinin Github hesabı açılacak ve daveti yapılan ödev görünecektir. Takım üyeleri ödevi kendi sayfalarına çekebilmeleri için “fork” yapması gerekir.
+4.	Takım üyeleri maillerine gelen davete tıkladıklarında Takım liderlerinin Github hesabı açılacak ve daveti yapılan ödev görünecektir. Takım üyeleri ödevi kendi sayfalarına çekebilmeleri için “fork” yapması gerekir. 
  
 <img width="960" alt="collaborators_3" src="https://github.com/user-attachments/assets/25b99bc5-f02f-486c-b508-c466d3ecd990">
+
+
+ÖNEMLİ NOT: Burada dikkat edilmesi gereken iki husus vardır.
+1- Takım lideri her takım liderinin Github kullanıcı hesabını bilmeli ve davetleri bu kullanıcı adlarına yapmalı.
+2- Her takım üyesi kendi takım liderinin gönderdiği davet mailini açarak "fork" yapmalı. Aksi takdirde ortak "Branch" ile çalışamazsınız.
 
 
